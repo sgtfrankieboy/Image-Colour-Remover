@@ -1,0 +1,9 @@
+D:\Development\Application\C#\Image Colour Remover\Image Colour Remover\bin\Debug\Image Colour Remover.exe
+D:\Development\Application\C#\Image Colour Remover\Image Colour Remover\bin\Debug\Image Colour Remover.pdb
+D:\Development\Application\C#\Image Colour Remover\Image Colour Remover\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Development\Application\C#\Image Colour Remover\Image Colour Remover\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Development\Application\C#\Image Colour Remover\Image Colour Remover\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Development\Application\C#\Image Colour Remover\Image Colour Remover\obj\x86\Debug\Image Colour Remover.exe
+D:\Development\Application\C#\Image Colour Remover\Image Colour Remover\obj\x86\Debug\Image Colour Remover.pdb
+D:\Development\Application\C#\Image Colour Remover\Image Colour Remover\obj\x86\Debug\VisualBounds.Imaging.ColourRemover.FrmMain.resources
+D:\Development\Application\C#\Image Colour Remover\Image Colour Remover\obj\x86\Debug\VisualBounds.Imaging.ColourRemover.Properties.Resources.resources
