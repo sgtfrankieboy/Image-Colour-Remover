@@ -157,6 +157,10 @@ namespace VisualBounds.Imaging.ColourRemover
 
         private void picPreview_MouseUp(object sender, MouseEventArgs e)
         {
+            if (screen == null)
+            {
+                screen = Win32APICall.GetDesktop();
+            }
             picColour.BackColor = screen.GetPixel(MousePosition.X, MousePosition.Y);
             txtHex.Text = ColorToHex(picColour.BackColor);
             if (e.Button == System.Windows.Forms.MouseButtons.Right)
